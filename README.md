@@ -6,7 +6,7 @@ We use [jiant1](https://github.com/nyu-mll/jiant-v1-legacy) for our edge probing
 
 Below is an example of how to reproduce our dependency labelling experiment with roberta-base-1B-3, which is one of the MiniBERTas we probe.
 
-### Download and Preprocess the Data
+#### Download and Preprocess the Data
 The commands below help you get and tokenize the data for the dependency labelling task. Remember to change directory to the root of the jiant and activate your jiant environment first.
 ```bash
 mkdir data
@@ -20,7 +20,7 @@ python probing/get_edge_data_labels.py -o data/edges/dep_ewt/labels.txt -i data/
 python probing/retokenize_edge_data.py -t nyu-mll/roberta-base-1B-3  data/edges/dep_ewt/*.json
 ```
 
-### Run the Experiment
+#### Run the Experiment
 If you have not used jiant before, you will probably need to set two critical environment variables: 
 
 ```
