@@ -47,7 +47,9 @@ You should expect the final validation f1 to be around 95.
 For this experiment, We also use [jiant1](https://github.com/nyu-mll/jiant-v1-legacy), but with a different branch.
 
 ## BLiMP
-The code for our BLiMP experiments can be found [here](https://github.com/nyu-mll/mlm-scoring/tree/minibertas)
+The code for our BLiMP experiments can be found [here](https://github.com/nyu-mll/mlm-scoring/tree/minibertas). You can already check [results](https://github.com/nyu-mll/mlm-scoring/tree/minibertas/examples/lingacc-blimp/results/nyu-mll) for our MiniBERTas.
+
+If you want to rerun experiments on your own, we have prepared BLiMP data so you only need to include all dependencies for the environment and run scripts following the tutorial [here](https://github.com/nyu-mll/mlm-scoring/tree/minibertas/examples/lingacc-blimp). Note that when intalling dependencies CUDA version could be a problem when installing `mxnet`.
 
 ## SuperGLUE
 We use [jiant2](https://github.com/nyu-mll/jiant) for our SuperGLUE experiments. Get started with jiant2 using this [guide](https://github.com/nyu-mll/jiant/tree/master/guides) and [examples](https://github.com/nyu-mll/jiant/tree/master/examples).
