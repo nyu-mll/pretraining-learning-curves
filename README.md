@@ -44,7 +44,7 @@ The final validation result will be printed after the experiment is finished, an
 You should expect the final validation f1 to be around 95.
 
 ## Minimum Description Description Length Probing with Edge Probing tasks
-For this experiment, We also use [jiant1](https://github.com/nyu-mll/jiant-v1-legacy), but with a different branch.
+For this experiment, we use this [fork](https://github.com/nyu-mll/online-code-for-edge-probing) of jiant1. 
 
 ## BLiMP
 The code for our BLiMP experiments can be found [here](https://github.com/nyu-mll/mlm-scoring/tree/minibertas). You can already check [results](https://github.com/nyu-mll/mlm-scoring/tree/minibertas/examples/lingacc-blimp/results/nyu-mll) for our MiniBERTas.
