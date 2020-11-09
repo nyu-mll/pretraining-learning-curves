@@ -43,7 +43,7 @@ A logging message will be printed out after each validation. You should expect v
 The final validation result will be printed after the experiment is finished, and can also be found in `$JIANT_PROJECT_PREFIX/DL_tutorial/results.tsv`. 
 You should expect the final validation f1 to be around 95.
 
-## Minimum Description Description Length Probing with Edge Probing tasks
+## Minimum Description Length Probing with Edge Probing tasks
 For this experiment, we use this [fork](https://github.com/nyu-mll/online-code-for-edge-probing) of jiant1. 
 
 ## BLiMP
