@@ -1,5 +1,5 @@
 # pretraining-learning-curves
-This is the repository for the paper [When Do You Need Billions of Words of Pretraining Data?](./When Do You Need Billions of Words of Pretraining Data.pdf)
+This is the repository for the paper [When Do You Need Billions of Words of Pretraining Data?](https://github.com/nyu-mll/pretraining-learning-curves/blob/main/When%20Do%20You%20Need%20Billions%20of%20Words%20of%20Pretraining%20Data.pdf)
 
 ## Edge Probing
 We use [jiant1](https://github.com/nyu-mll/jiant-v1-legacy) for our edge probing experiments. This [tutorial](https://github.com/nyu-mll/jiant-v1-legacy/blob/master/tutorials/setup_tutorial.md) can help you set up the environment and get started with jiant.
