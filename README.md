@@ -47,7 +47,7 @@ You should expect the final validation f1 to be around 95.
 For this experiment, We also use [jiant1](https://github.com/nyu-mll/jiant-v1-legacy), but with a different branch.
 
 ## BLiMP
-The code for our BLiMP experiments can be found [here](https://google.com) (waiting for HS's repo)
+The code for our BLiMP experiments can be found [here](https://github.com/nyu-mll/mlm-scoring/tree/minibertas)
 
 ## SuperGLUE
 We use [jiant2](https://github.com/nyu-mll/jiant) for our SuperGLUE experiments. Get started with jiant2 using this [guide](https://github.com/nyu-mll/jiant/tree/master/guides) and [examples](https://github.com/nyu-mll/jiant/tree/master/examples).
